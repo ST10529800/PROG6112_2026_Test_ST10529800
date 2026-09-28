@@ -1,4 +1,5 @@
 PROG6112  TEST
+ This project contains two packages divided into  question 1 and question 2
 
 QUESTION 1
 Package: question1
