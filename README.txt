@@ -1,6 +1,4 @@
-PROG6112 COMPLETE TEST
-
-This is one NetBeans-compatible Maven project containing both test questions.
+PROG6112  TEST
 
 QUESTION 1
 Package: question1
